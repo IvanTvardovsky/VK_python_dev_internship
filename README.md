@@ -1,0 +1,1 @@
+# VK_python_dev_internship
